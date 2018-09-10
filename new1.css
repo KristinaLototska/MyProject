@@ -1,0 +1,65 @@
+
+body {
+	background-color: lightblue;
+	font-family: italic ;
+	font-size: 18px;
+}
+caption{
+	margin-top: 20px;
+	color: black;
+	font: bold serif italic;
+	font-size: 30px;
+	border-style: groove;
+	margin-bottom: 20px;
+	}
+table, td {
+   border: 1px dashed black;
+   color: navy;
+   text-align: center;
+
+}
+table {
+
+    border-collapse: collapse;
+    width: 50%;
+	}
+
+th {
+	background-color: navy;
+    height: 50 px;
+	color: white;
+}
+tr:nth-child(even) {
+	background-color: white;
+	}
+h1 {color: Black;
+text-align: center;}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: white;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: navy;
+    text-align: center;
+    padding: 14px 16px;
+	margin-left: 10%;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: blue;
+    color: white;
+}
+ol {margin-left: 40px;}
