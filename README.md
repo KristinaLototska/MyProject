@@ -1,0 +1,2 @@
+# MyProject0
+In my project 0 I gave a short information about myself. One of the webpages tells about my work as an accountant, I introduced it in the form of a table. On the ITMOMS.html page I created a list of the program of the previous IT course, that studied. On the page Mywork.html I posted some images of the products that I create in my spare time, that is, showed my hobby. It is a simple website about my life.
